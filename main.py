@@ -1,6 +1,6 @@
 def main():
     print("Hello from brushup-files!")
-    print("hi")
+    print("Sample change in dev branch")
 
 
 if __name__ == "__main__":
